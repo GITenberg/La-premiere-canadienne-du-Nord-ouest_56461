@@ -1,0 +1,23 @@
+_repo: La-premiere-canadienne-du-Nord-ouest_56461
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dugas, Georges
+    gutenberg_agent_id: '48857'
+    url: http://www.gutenberg.org/2009/agents/48857
+description: ''
+gutenberg_bookshelf:
+- FR Biographie, Mémoires, Journal intime, Correspondance
+- FR Peuples et Sociétés
+gutenberg_issued: '2018-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56461'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La première canadienne du Nord-ouest
+url: http://www.gutenberg.org/ebooks/56461
